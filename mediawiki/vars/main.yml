@@ -1,0 +1,15 @@
+---
+# vars file for mediawiki
+pkg:
+ - epel-release
+ - httpd
+ - yum-utils
+ - php
+ - php-mysql
+ - php-gd
+ - php-xml
+ - php-mbstring
+ - mariadb-server
+ - mariadb
+ - bzip2
+ - MySQL-python
