@@ -14,20 +14,20 @@ POST PRE-REQUISTIES:
   #tree mediawiki/
     mediawiki/
     ├── defaults
-    │   └── main.yml
+    │   └── main.yml
     ├── files
-    │   ├── dump
-    │   │   └── dump.sql.bz2
-    │   └── mycnf
+    │   ├── dump
+    │   │   └── dump.sql.bz2
+    │   └── mycnf
     ├── handlers
-    │   └── main.yml
+    │   └── main.yml
     ├── meta
-    │   └── main.yml
+    │   └── main.yml
     ├── tasks
-    │   └── main.yml
+    │   └── main.yml
     ├── templates
     ├── tests
-    │   ├── inventory
-    │   └── test.yml
+    │   ├── inventory
+    │   └── test.yml
     └── vars
-        └── main.yml   
+        └── main.yml
